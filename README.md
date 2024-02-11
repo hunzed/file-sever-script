@@ -1,5 +1,7 @@
 # file-sever-script
 
+Bash script based project
+
 1. Server (VM1)
 a. Create a welcome page and add the welcome message.
 b. Create a webpage that can be accessed only after successfully logging in to the
